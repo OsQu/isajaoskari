@@ -3,13 +3,22 @@
  *= require_self
  */
 
+@import "variables";
 @import "foundation";
-@include foundation-global-styles;
-@include foundation-grid;
-@include foundation-typography;
+
 
 @import "compass";
 @import "compass/css3";
+@import "compass/typography/vertical_rhythm";
 @include font-face("Frontage", font-files("FrontageRegular.otf"));
 
+@include establish-baseline;
+
+@import "base";
 @import "wedding";
+
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+@include foundation-menu;
+

@@ -12,4 +12,22 @@ html
     meta name="viewport" content="width=device-width, initial-scale=1.0"
 
 body
-  == yield
+  div#container
+    div.row
+      div.columns.medium-10.medium-centered
+        ul#navigation.menu
+          li
+            a =t "wedding"
+          li
+            a =t "kids"
+          li
+            a =t "wedding_day"
+          li
+            a =t "accommodation"
+          li
+            a =t "contact"
+
+    div.row
+      div.columns.medium-8.medium-centered
+        div#content
+          == yield
