@@ -1,7 +1,7 @@
 class WeddingsController < ApplicationController
   helper_method :active?
 
-  def weddings
+  def wedding
     @active_page = :wedding
   end
 

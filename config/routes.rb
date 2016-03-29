@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root to: "weddings#weddings", as: "weddings"
+  root to: "weddings#wedding", as: "wedding"
   get "kids", to: "weddings#kids", as: "kids"
   get "wedding_day", to: "weddings#wedding_day", as: "wedding_day"
   get "accommodation", to: "weddings#accommodation", as: "accommodation"

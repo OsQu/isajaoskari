@@ -14,20 +14,20 @@ html
 body
   div#container
     div.row
-      div.columns.medium-10.medium-centered
-        ul#navigation.menu
+      div.columns.medium-11.medium-centered
+        ul#navigation.menu.vertical.medium-horizontal
           li class=('active' if active? :wedding)
-            a href=weddings_path =t "wedding"
+            a href=wedding_path =t "menu.wedding"
           li class=('active' if active? :kids)
-            a href=kids_path =t "kids"
+            a href=kids_path =t "menu.kids"
           li class=('active' if active? :wedding_day)
-            a href=wedding_day_path =t "wedding_day"
+            a href=wedding_day_path =t "menu.wedding_day"
           li class=('active' if active? :accommodation)
-            a href=accommodation_path =t "accommodation"
+            a href=accommodation_path =t "menu.accommodation"
           li class=('active' if active? :contact)
-            a href=contact_path =t "contact"
+            a href=contact_path =t "menu.contact"
 
     div.row
-      div.columns.medium-8.medium-centered
+      div.columns.medium-9.medium-centered
         div#content
           == yield

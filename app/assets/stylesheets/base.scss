@@ -1,4 +1,6 @@
-$menu-item-padding: rhythm(0.25) rhythm(2);
+@import "variables";
+
+$menu-item-padding: rhythm(0.25) rhythm(1.5);
 
 div#container {
   width: 90%;
@@ -16,10 +18,11 @@ div#container {
     image-url("corners/bottom_left.png") bottom left no-repeat,
     image-url("corners/bottom_right.png") bottom right no-repeat;
   background-size: rhythm(7);
+  overflow: auto
 }
 
 #navigation {
-  border-bottom: 1px solid;
+  border-bottom: 2px solid $base-color;
   display: inline-block;
 }
 

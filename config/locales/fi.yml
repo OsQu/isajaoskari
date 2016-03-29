@@ -1,3 +1,13 @@
 fi:
-  todo: "TODO: Hääsivu"
   title: "Isa ja Oskari menee naimisiin!"
+  wedding:
+    p1: "Häitä juhlitaan lauantaina 23.7.2016 klassiseen Art Deco tyyliin."
+    p2: "Vihkiminen tapahtuu juhlapaikalla kello 15, ja häitä alamme juhlia noin kello 16.30"
+    p3: "Toivoimme vierailta juhlavaa pukeutumista, joko teemaan mukaan, kesäisesti tai kummankin mukaisesti."
+  menu:
+    wedding: "Häät"
+    kids: "Lapset"
+    wedding_day: "Hääpäivä"
+    accommodation: "Majoitus"
+    contact: "Yhteystiedot"
+
