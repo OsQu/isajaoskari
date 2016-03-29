@@ -1,7 +1,29 @@
 class WeddingsController < ApplicationController
-  def weddings; end
-  def kids; end
-  def wedding_day; end
-  def accommodation; end
-  def contact; end
+  helper_method :active?
+
+  def weddings
+    @active_page = :wedding
+  end
+
+  def kids
+    @active_page = :kids
+  end
+
+  def wedding_day
+    @active_page = :wedding_day
+  end
+
+  def accommodation
+    @active_page = :accommodation
+  end
+
+  def contact
+    @active_page = :contact
+  end
+
+  private
+
+  def active?(page)
+    page == @active_page
+  end
 end

@@ -3,3 +3,12 @@ $body-background: #FFFDFA;
 $base-font-size: 16px;
 $base-line-height: 24px;
 
+$base-color: #131B42;
+$old-gold-color: #C5B356;
+
+$menu-item-color-active: $old-gold-color;
+$menu-item-background-active: none;
+
+$foundation-palette: (
+  primary: $base-color
+)

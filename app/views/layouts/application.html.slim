@@ -16,15 +16,15 @@ body
     div.row
       div.columns.medium-10.medium-centered
         ul#navigation.menu
-          li
+          li class=('active' if active? :wedding)
             a href=weddings_path =t "wedding"
-          li
+          li class=('active' if active? :kids)
             a href=kids_path =t "kids"
-          li
+          li class=('active' if active? :wedding_day)
             a href=wedding_day_path =t "wedding_day"
-          li
+          li class=('active' if active? :accommodation)
             a href=accommodation_path =t "accommodation"
-          li
+          li class=('active' if active? :contact)
             a href=contact_path =t "contact"
 
     div.row
