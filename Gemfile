@@ -7,6 +7,8 @@ gem 'compass-rails'
 gem 'slim'
 gem 'foundation-rails'
 
+gem 'unicorn'
+
 group :development, :test do
   gem 'byebug'
 end
