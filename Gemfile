@@ -9,6 +9,8 @@ gem 'foundation-rails'
 
 gem 'unicorn'
 
+gem 'therubyracer'
+
 group :development, :test do
   gem 'byebug'
 end
