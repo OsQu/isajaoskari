@@ -21,6 +21,15 @@ div#container {
   overflow: auto
 }
 
+div.locale-select {
+  position: relative;
+  float: right;
+  top: rhythm(-2);
+  a {
+    margin-left: rhythm(0.5)
+  }
+}
+
 #navigation {
   border-bottom: 2px solid $base-color;
   display: inline-block;
