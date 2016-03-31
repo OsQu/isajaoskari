@@ -1,13 +1,28 @@
 fi:
-  title: "Isa ja Oskari menee naimisiin!"
+  title: "Isa ja Oskari"
   wedding:
     p1: "Häitä juhlitaan lauantaina 23.7.2016 klassiseen Art Deco tyyliin."
     p2: "Vihkiminen tapahtuu juhlapaikalla kello 15, ja häitä alamme juhlia noin kello 16.30"
     p3: "Toivoimme vierailta juhlavaa pukeutumista, joko teemaan mukaan, kesäisesti tai kummankin mukaisesti."
+  wedding_day:
+    p1: "Hotellille pääsee noin klo 14 kirjautumaan sisään (tämä tarkentuu vielä), ja vihkitilaisuus alkaa kello 15."
+    p2: "Matilda-talo sijaitsee noin puolen tunnin ajomatkan päässä Salon keskustasta, ja suosittelemme taksin jakamista juhlapaikalle ja sieltä pois kulkiessa, joskin paikalle pääsee luonnollisesti myöskin omalla autolla."
+    p3: "Jatkot alkavat noin kello 20.30 ja niitä saa juhlia niin pitkään kuin virtaa riittää."
+  kids:
+    p1: "Lapset ovat tervetulleita sekä vihkitilaisuuteen, hääjuhlaan että jatkoille (jatkoista on hyvä tosin huomioida, että paikalla on runsaasti teekkareita)."
+    p2: "Juhlapaikka sijaitsee järven rannalla, ja meitä ei lasten (tai aikuisten) mahdollinen uiminen haittaa."
+    p3: "Koska häihin on tulossa useita pieniä lapsia, pyytäisimme vanhempia huolehtimaan lasten syöttötuoleista (ja mahdollisista leluista) itse."
+    p4: "Häätilassa on sikarihuone, josta juhlan ajaksi muotoutuu lasten leikkihuone sekä vanhemman väen lepohuone."
+  accommodation:
+    p1: "Häävieraita varten on varattu kiintiö huoneita hotelli"
+    hotel_name: "Cumulus Salosta"
+    p2: "Kahden hengen huoneen hinta on 87 euroa/huone, ja yhden hengen huoneen hinta on 70 euroa/huone. Pienten lasten matkasängyt ovat ilmaisia ja hieman isommille lapsille varavuoteet kustantavat 22 euroa."
+    p3: "Hotellihuoneet tulee varata 23.6. mennessä ja maksetaan poistuttaessa hotellilta.  Varauksen yhteydessä tulee mainita “hääseurue ojanen”"
+  contact:
+    header: "Yhteystiedot"
   menu:
     wedding: "Häät"
     kids: "Lapset"
     wedding_day: "Hääpäivä"
     accommodation: "Majoitus"
     contact: "Yhteystiedot"
-
