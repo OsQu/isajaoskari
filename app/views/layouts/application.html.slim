@@ -17,16 +17,18 @@ body
       a href="?locale=fi" fi
       a href="?locale=en" en
     div.row
-      div.columns.medium-11.medium-centered
-        ul#navigation.menu.vertical.medium-horizontal
+      div.columns.large-11.large-centered
+        ul#navigation.menu.vertical.large-horizontal
           li class=('active' if active? :wedding)
             a href=wedding_path =t "menu.wedding"
-          li class=('active' if active? :kids)
-            a href=kids_path =t "menu.kids"
           li class=('active' if active? :wedding_day)
             a href=wedding_day_path =t "menu.wedding_day"
+          li class=('active' if active? :kids)
+            a href=kids_path =t "menu.kids"
           li class=('active' if active? :accommodation)
             a href=accommodation_path =t "menu.accommodation"
+          li class=('active' if active? :presents)
+            a href=presents_path =t "menu.presents"
           li class=('active' if active? :contact)
             a href=contact_path =t "menu.contact"
 

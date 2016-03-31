@@ -1,6 +1,6 @@
 @import "variables";
 
-$menu-item-padding: rhythm(0.25) rhythm(1.5);
+$menu-item-padding: rhythm(0.25) rhythm(1);
 
 div#container {
   width: 90%;
@@ -37,6 +37,10 @@ div.locale-select {
 
 #content {
   margin-top: rhythm(2);
+
+  a {
+    text-decoration: underline;
+  }
 }
 
 div.contact_info {

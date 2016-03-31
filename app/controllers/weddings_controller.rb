@@ -21,6 +21,10 @@ class WeddingsController < ApplicationController
     @active_page = :contact
   end
 
+  def presents
+    @active_page = :presents
+  end
+
   private
 
   def active?(page)

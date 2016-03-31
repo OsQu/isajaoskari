@@ -6,6 +6,7 @@ fi:
     p3: "Toivoimme vierailta juhlavaa pukeutumista, joko teemaan mukaan, kesäisesti tai kummankin mukaisesti."
     register: "Ilmoittautumista pyydämme 1.6. mennessä:"
     register_link: "http://goo.gl/forms/1UPRhmdCpz"
+    welcome: "Tervetuloa!"
   wedding_day:
     p1: "Hotellille pääsee noin klo 14 kirjautumaan sisään (tämä tarkentuu vielä), ja vihkitilaisuus alkaa kello 15."
     p2: "Matilda-talo sijaitsee noin puolen tunnin ajomatkan päässä Salon keskustasta, ja suosittelemme taksin jakamista juhlapaikalle ja sieltä pois kulkiessa, joskin paikalle pääsee luonnollisesti myöskin omalla autolla."
@@ -20,6 +21,10 @@ fi:
     hotel_name: "Cumulus Salosta"
     p2: "Kahden hengen huoneen hinta on 87 euroa/huone, ja yhden hengen huoneen hinta on 70 euroa/huone. Pienten lasten matkasängyt ovat ilmaisia ja hieman isommille lapsille varavuoteet kustantavat 22 euroa."
     p3: "Hotellihuoneet tulee varata 23.6. mennessä ja maksetaan poistuttaessa hotellilta.  Varauksen yhteydessä tulee mainita “hääseurue ojanen”"
+  presents:
+    p1: "Toivotamme kaikki tervetulleiksi juhlimaan ilman paineita lahjanannosta."
+    p2: "Mikäli kuitenkin haluatte antaa jotakin hääparille niin voitte esimerkiksi tutustua lahjalistaamme, (to be created), tai yllättää meidät."
+    p3: "Voitte myös tukea häämatkaamme aurinkoiseen Portugaliin tilin FI34 8115 0710 9955 93 välityksellä."
   contact:
     header: "Yhteystiedot"
   menu:
@@ -27,4 +32,5 @@ fi:
     kids: "Lapset"
     wedding_day: "Hääpäivä"
     accommodation: "Majoitus"
+    presents: "Lahjat"
     contact: "Yhteystiedot"
