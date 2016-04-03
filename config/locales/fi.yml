@@ -1,9 +1,9 @@
 fi:
   title: "Isa ja Oskari"
   wedding:
-    p1: "Häitä juhlitaan lauantaina 23.7.2016 klassiseen Art Deco tyyliin."
+    p1: "Tervetuloa juhlimaan Isan ja Oskarin häitä lauantaina 23.7.2016 klassiseen Art Deco tyyliin."
     p2: "Vihkiminen tapahtuu juhlapaikalla kello 15, ja häitä alamme juhlia noin kello 16.30"
-    p3: "Toivoimme vierailta juhlavaa pukeutumista, joko teemaan mukaan, kesäisesti tai kummankin mukaisesti."
+    p3: "Toivomme vierailta juhlavaa pukeutumista, joko teemaan mukaan, kesäisesti tai kummankin mukaisesti."
     register: "Ilmoittautumista pyydämme 1.6. mennessä:"
     register_link: "http://goo.gl/forms/1UPRhmdCpz"
     welcome: "Tervetuloa!"
@@ -23,8 +23,7 @@ fi:
     p3: "Hotellihuoneet tulee varata 23.6. mennessä ja maksetaan poistuttaessa hotellilta.  Varauksen yhteydessä tulee mainita “hääseurue ojanen”"
   presents:
     p1: "Toivotamme kaikki tervetulleiksi juhlimaan ilman paineita lahjanannosta."
-    p2: "Mikäli kuitenkin haluatte antaa jotakin hääparille niin voitte esimerkiksi tutustua lahjalistaamme, (tulee pian!), tai yllättää meidät."
-    p3: "Voitte myös tukea häämatkaamme aurinkoiseen Portugaliin tilin FI34 8115 0710 9955 93 välityksellä."
+    p2: "Mikäli kuitenkin haluatte antaa jotakin hääparille niin voitte esimerkiksi tukea häämatkaamme aurinkoiseen Portugaliin tilin FI34 8115 0710 9955 93 välityksellä."
   contact:
     header: "Yhteystiedot"
   menu:
