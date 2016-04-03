@@ -22,9 +22,10 @@ div#container {
 }
 
 div.locale-select {
-  position: relative;
-  float: right;
-  top: rhythm(-2);
+  position: absolute;
+  top: rhythm(1.5);
+  right: rhythm(3);
+
   a {
     margin-left: rhythm(0.5)
   }
