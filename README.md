@@ -5,3 +5,5 @@ Installation & Usage
 --------------------
 
 Basic rails site
+
+The site: http://isajaoskari.fi
