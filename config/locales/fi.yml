@@ -7,6 +7,13 @@ fi:
     register: "Ilmoittautumista pyydämme 1.6. mennessä:"
     register_link: "http://goo.gl/forms/1UPRhmdCpz"
     welcome: "Tervetuloa!"
+    update: |
+      *****PÄIVITETTY 18.7.2016*****
+
+      Juhlapaikan osoite on Tennistie 5, 25660 Mathildedal
+
+
+      Hotelli Cumuluksessa yöpyjille tiedoksi: Hotellille voi mennä niin aikaisin kuin haluaa, ja jos huoneita on vapaana, niin sellaisen myös saa. Mikäli huoneita ei ole varattuna, hotellilta luvattiin, että esimerkiksi saunalla voi vaihtaa vaatteita. Jos jotakin kysyttävää ilmenee, niin olkaa yhteydessä joko Isaan tai Oskariin ennen lauantaita, tai lauantaina Carla Ahveniseen (050 360 6070)
   wedding_day:
     p1: "Hotellille pääsee noin klo 14 kirjautumaan sisään (tämä tarkentuu vielä), ja vihkitilaisuus alkaa kello 15."
     p2: "Matilda-talo sijaitsee noin puolen tunnin ajomatkan päässä Salon keskustasta, ja suosittelemme taksin jakamista juhlapaikalle ja sieltä pois kulkiessa, joskin paikalle pääsee luonnollisesti myöskin omalla autolla."
